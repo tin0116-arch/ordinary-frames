@@ -1,0 +1,94 @@
+{
+  "collections": [
+    {
+      "slug": "after-the-sunset",
+      "title": "After the Sunset",
+      "subtitle": "日落之後",
+      "category": "light-and-moments",
+      "location": "淡江大橋｜台灣",
+      "date": "2026-11-04",
+      "description": "大家總覺得夕陽最燦爛的時候最美，但比起日落的瞬間，我更喜歡太陽落下後留下的餘暉。天空慢慢暗下來，柔和的色彩反而更讓我想記住。",
+      "cover": "assets/photos/after-the-sunset/after-the-sunset-001.jpg",
+      "photos": [
+        {
+          "src": "assets/photos/after-the-sunset/after-the-sunset-001.jpg",
+          "alt": "粉橘色晚霞、淡江大橋與平靜的河面",
+          "caption": "日落之後，才是我最喜歡的光。",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "slug": "a-night-in-rome",
+      "title": "A Night in Rome",
+      "subtitle": "羅馬之夜",
+      "category": "places-and-memories",
+      "location": "羅馬競技場｜義大利",
+      "date": "2025-12-31",
+      "description": "在等待跨年煙火的同時，看著眼前被燈光照亮的羅馬競技場，還是覺得有些不真實。那些曾經只在照片裡看過的風景，竟然真的出現在自己眼前。",
+      "cover": "assets/photos/a-night-in-rome/a-night-in-rome-001.jpg",
+      "photos": [
+        {
+          "src": "assets/photos/a-night-in-rome/a-night-in-rome-001.jpg",
+          "alt": "夜色下被金黃色燈光照亮的羅馬競技場拱門",
+          "caption": "跨年夜，眼前的古老建築仍讓人覺得不可思議。",
+          "date": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "slug": "the-days-of-youth",
+      "title": "The Days of Youth",
+      "subtitle": "青春的模樣",
+      "category": "places-and-memories",
+      "location": "鎌倉｜日本",
+      "date": "2025-06-27",
+      "description": "在鎌倉看見好多日本高中生，突然覺得這個地方有一種特別的青春感。看著他們的日常，也提醒自己，現在所經歷的每個階段都很珍貴，要好好珍惜當下。",
+      "cover": "assets/photos/the-days-of-youth/the-days-of-youth-001.jpg",
+      "photos": [
+        {
+          "src": "assets/photos/the-days-of-youth/the-days-of-youth-001.jpg",
+          "alt": "鎌倉的河道穿過橋下通往大海，橋邊有行人與車輛",
+          "caption": "鎌倉的海與街道，總讓人想起青春。",
+          "date": "2025-06-27"
+        }
+      ]
+    },
+    {
+      "slug": "five-years-later",
+      "title": "Five Years Later",
+      "subtitle": "五年以後",
+      "category": "places-and-memories",
+      "location": "明治神宮｜日本",
+      "date": "2025-07-04",
+      "description": "時隔五年，再次走進明治神宮，依然會不自覺地被這裡的氛圍感動。一直很喜歡日本神社特有的寧靜感，即使再次造訪，還是有著和第一次一樣的感受。",
+      "cover": "assets/photos/five-years-later/five-years-later-001.jpg",
+      "photos": [
+        {
+          "src": "assets/photos/five-years-later/five-years-later-001.jpg",
+          "alt": "明治神宮境內懸掛的傳統燈籠、參天綠樹和參拜遊客",
+          "caption": "五年後再次走進同一個地方，心裡依然有熟悉的感動。",
+          "date": "2025-07-04"
+        }
+      ]
+    },
+    {
+      "slug": "above-the-clouds",
+      "title": "Above the Clouds",
+      "subtitle": "雲海之上",
+      "category": "light-and-moments",
+      "location": "阿里山｜台灣",
+      "date": "2024-01-31",
+      "description": "去了好幾次阿里山，終於在這一次同時看見雲海與日出。看著陽光慢慢照亮眼前的雲海，突然覺得之前的每一次期待都值得了。",
+      "cover": "assets/photos/above-the-clouds/above-the-clouds-001.jpg",
+      "photos": [
+        {
+          "src": "assets/photos/above-the-clouds/above-the-clouds-001.jpg",
+          "alt": "阿里山日出時晴朗天空中的耀眼太陽，遠處山稜下方鋪滿雲海",
+          "caption": "終於等到雲海與日出同時出現的那一刻。",
+          "date": "2024-01-31"
+        }
+      ]
+    }
+  ]
+}
