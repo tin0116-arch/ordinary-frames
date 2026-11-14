@@ -4,9 +4,7 @@
 
 這是一個以原創攝影作品記錄生活片刻的靜態網站。使用溫暖底片感的介面，呈現每張照片的地點、日期與故事。
 
-## 本次課程專案
 
-作業核心不是完成單一相簿，而是建立 **`AGENTS.md`**，作為 AI 持續新增攝影作品的開發規則。請先閱讀 `AGENTS.md` 再動手修改專案。
 
 ### 網站內容
 
@@ -30,23 +28,6 @@ ordinary-frames/
 ├── data/collections.json   # 唯一的作品資料來源
 └── assets/photos/<slug>/   # 照片依作品 slug 管理
 ```
-
-### 本機預覽
-
-直接用檔案管理員雙擊 `index.html` 可能因為瀏覽器的 `fetch()` 限制而無法讀取 JSON。請在專案資料夾開啟終端機執行：
-
-```bash
-python -m http.server 8000
-```
-
-再用瀏覽器開啟 `http://localhost:8000/`。網站上 GitHub Pages 後也能正常載入 JSON。
-
-### 發布到 GitHub Pages
-
-1. 把上面所有檔案和資料夾上傳到 Repository **根目錄**（`index.html` 必須在最外層）。
-2. Repository → **Settings** → **Pages** → **Build and deployment** → **Deploy from a branch**。
-3. Branch 選 `main`，Folder 選 `/(root)`，按 Save。
-4. 公開網址格式：`https://<使用者名稱>.github.io/<repository名稱>/`。
 
 ### AGENTS.md 擴充驗證
 
