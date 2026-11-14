@@ -60,3 +60,12 @@ Ordinary Frames（日常拾光）是展示原創日常攝影的靜態作品集�
 - 初版已有 `after-the-sunset`、`a-night-in-rome`、`the-days-of-youth` 三個作品。
 - 後續依本檔規則新增 `five-years-later`（2025-07-04，`places-and-memories`）與 `above-the-clouds`（2024-01-31，`light-and-moments`）。
 - 擴充時只加入照片、更新 `data/collections.json`，不得為新作品手動複製 HTML，確保版型可以長期重用。
+
+## 11. Photography Notes 攝影手札（首頁擴充規則）
+- 攝影手札是首頁 `index.html` 中 `id="notes"` 的內容區塊，導覽連結為 `href="#notes"`，不需要新增 `notes.html`、JSON 或 JavaScript。這是本專案的簡易版本。
+- 新增手札前，AI 必須先閱讀本規則，確認對應的攝影作品已存在於 `data/collections.json`，不得捏造拍攝地點、日期或心得。
+- 每篇手札使用現有 `#notes` 內的 `<article class="hero">` 結構，依序編號 `NOTE 001`、`NOTE 002`；每篇須有：編號、拍攝日期、地點、英文標題、中文標題、心得、照片路徑、具體 alt 文字、對應 `collection.html?slug=...` 連結。
+- 複製既有 `<article>` 後僅替換該篇內容，不新增獨立頁面、不更動其他攝影系列、不新增框架，也不引入外部 API。照片繼續引用 `assets/photos/<slug>/` 中的原始展示檔；不得擅自裁切或套濾鏡。
+- 文字採繁體中文，以作者提供的真實感受為基礎，避免虛構經歷。沿用現有 `.hero`、`.hero-copy`、`.hero-photo`、`.text-link` 等 CSS 類別，不隨意新增相互衝突的全站樣式。
+- 驗收時應檢查首頁 Notes 連結能跳至 `#notes`、手札文字及照片正常顯示、View Collection 指向正確系列、手機可閱讀、既有五張作品沒有受影響。
+- 擴充測試範例：請 AI 先閱讀本檔，再依照 `NOTE 001` 格式新增明治神宮 `five-years-later` 的 `NOTE 002`，保留原有手札與其他作品。
