@@ -1,4 +1,4 @@
-# Ordinary Frames｜日常拾光
+# Ordinary Frames 日常拾光
 
 > Not every moment needs to be extraordinary to be remembered.
 
