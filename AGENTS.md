@@ -54,7 +54,7 @@ Ordinary Frames（日常拾光）是展示原創日常攝影的靜態作品集�
 - AI 在交付時列出檔案變更、測試結果及未完成事項。
 
 ## 9. 交辦範例
-「請先閱讀 AGENTS.md，使用我提供的照片新增 `quiet-afternoon` 系列，分類為 `little-moments`。依照既有 JSON 格式新增資料，不改動原本樣式；完成後檢查首頁與系列頁面並列出修改檔案。」
+「請先閱讀 AGENTS.md，使用我提供的照片新增 `quiet-afternoon` 系列，分類為 `light-and-moments`。依照既有 JSON 格式新增資料，不改動原本樣式；完成後檢查首頁與系列頁面並列出修改檔案。」
 
 ## 10. 新增作品的實際驗收示範
 - 初版已有 `after-the-sunset`、`a-night-in-rome`、`the-days-of-youth` 三個作品。
